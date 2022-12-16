@@ -157,7 +157,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 ## For example, for a site URL at 'web-production-3640.up.railway.app'
 ## (replace the string below with your own site URL):
 
-ALLOWED_HOSTS = ['web-production-3640.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['illegal-agreement-production.up.railway.app', '127.0.0.1']
 
 # During development, you can instead set just the base URL
 # (you might decide to change the site a few times).
